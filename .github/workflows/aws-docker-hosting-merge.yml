@@ -28,7 +28,7 @@ jobs:
         with:
           content: .
           push: true
-          tags: sktp03/331-lab06:latest
+          tags: sktp03/se331-lab06:latest
       -
         name: docker compose
         uses: alex-ac/github-action-ssh-docker-compose@master
